@@ -1,0 +1,95 @@
+body {
+  color: rgb(58, 233, 143);
+  background-image: url(/src/public-img/wepik-export-20230828110514o8kh.png);
+  background-size: cover;
+  padding: 2%;
+}
+.color-edit {
+  color: black;
+  font-weight: bold;
+}
+.icon-overlay {
+  color: rgb(0, 0, 0);
+  background-color: rgba(191, 242, 216, 0.514);
+}
+.icon-overlay:hover {
+  color: rgba(0, 0, 0, 0.644);
+  background: linear-gradient(45deg, rgb(191, 209, 242), #f0f0f0);
+  border: 1px solid black;
+}
+.div-center {
+  justify-content: center;
+}
+.img-width-control {
+  height: auto;
+}
+.sizer {
+  margin: 20%;
+}
+.display-div-1 {
+  background-image: url("../public-img/home1.jpg");
+  background-size: cover;
+  padding: 2%;
+}
+.display-div-2 {
+  background-image: url("../public-img/home2.jpg");
+  background-size: cover;
+  padding: 2%;
+}
+.display-div-3 {
+  background-image: url("../public-img/home4.jpg");
+  background-size: cover;
+  padding: 2%;
+}
+.push-inner-padding {
+  padding: 1%;
+}
+.info-div {
+  background-image: url("../public-img/wepik-export-20230828110306AwKq.png");
+  padding: 3.5%;
+  color: rgb(255, 255, 255);
+}
+.font-changed {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.color-change {
+  color: black;
+  text-decoration: underline;
+}
+.about-us-cont {
+  background-size: cover;
+  background-image: url("../public-img/wepik-export-20230828110351pCqQ.png");
+  padding: 1%;
+}
+.sizer-2 {
+  margin: 2%;
+  color: black;
+  font-size: x-large;
+}
+.remove-list-bullet {
+  list-style-type: none;
+}
+.list-edit {
+  color: black;
+}
+#myModal {
+  background: linear-gradient(
+    to bottom right,
+    rgba(34, 68, 66, 0.507),
+    rgb(191, 242, 216)
+  );
+}
+
+#imgtext {
+    color: green;
+    font-size: 20px;
+}
+
+.closebtn {
+    border-radius: 20px;
+    padding: 5px;
+    border: 1px solid black;
+  color: red;
+  font-size: 16px;
+  cursor: pointer;
+}
